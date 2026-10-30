@@ -1,0 +1,197 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/Fallout Wasteland 1.20.1 Beta 3.8.1.jar"
+hash = "ced3c8a2fb902f60a98c3c9914e5f9d4ad070499644ef90a39f25420d594ace5"
+
+[[files]]
+file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+hash = "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61"
+
+[[files]]
+file = "mods/IAV-1.1.11-1.20.1.jar"
+hash = "a8d3883d384db4ce637547e314de7da6d58408bb05f1d25e5abf24a4a388d8ab"
+
+[[files]]
+file = "mods/IMPR-Forge-3.23.3-1.20.1-1.20.1.jar"
+hash = "a8be7cf22b8f1c0753849ba07eff0d8e427f21da31ec64db8aabad2a7761e65b"
+
+[[files]]
+file = "mods/Immersive Vehicles-1.20.1-24.0.0.jar"
+hash = "274c68a6b6cf9bd5fd97af8358ce2d58fed2a49685f20079d744e8b74800277b"
+
+[[files]]
+file = "mods/MutantsZombies-1.4.0-Forge-mc1.20.1.jar"
+hash = "58c2e2d8f50b6e9aeac27f3a531e7d7bdf8bc8e385618bfe89f22da30c5a13c9"
+
+[[files]]
+file = "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+hash = "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1"
+
+[[files]]
+file = "mods/UndergroundBunkers-1.0.5-1.20.x-forge.jar"
+hash = "b9f9a25648f6abf3747c4f1e9c0a0438baac474c71ad5b0981a8613481982d58"
+
+[[files]]
+file = "mods/VEB-1.1.11-1.20.1.jar"
+hash = "efcd65679fde840335fedf3fc04a0535063ab9f56d2dfbaa32621f4d19274511"
+
+[[files]]
+file = "mods/[1.20.1] SecurityCraft v1.10.2.1.jar"
+hash = "f7c637b291cccd2c4a4f94048a6d08a48065c0618fec03043d6f9e15af27948a"
+
+[[files]]
+file = "mods/architectury-9.2.14-forge.jar"
+hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+
+[[files]]
+file = "mods/awcapi-neoforge-1.20.1-1.0.2.jar"
+hash = "dafc56d8114b3ce3f29673ccbffdbfea7727925cc18f1d890de95adb941b64ae"
+
+[[files]]
+file = "mods/bagus_lib-1.20.1-5.6.1.jar"
+hash = "aeca001b9692235beb2a7c46cb110d55fc9ada0dbc8acff61dfa2f9e39158ffb"
+
+[[files]]
+file = "mods/berezka_api-1.2.9.7-forge-1.20.1.jar"
+hash = "31afade3aa460fc2bab025241edec98b35b45fffad576bfdae12df4f886f7bbd"
+
+[[files]]
+file = "mods/big_lost_city-1.0.1-forge-1.20.1.jar"
+hash = "adb106da24d02280218e3ae0839f10545996479b29c3aec40c8eaaf03e1235f2"
+
+[[files]]
+file = "mods/cloth-config-11.1.136-forge.jar"
+hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+
+[[files]]
+file = "mods/collective-1.20.1-8.39.jar"
+hash = "594bc5d40f2a3fec1ad95732524f65e01a27ac2abeb9d59889cd9f01fd8db6cb"
+
+[[files]]
+file = "mods/coroutil-forge-1.20.1-1.3.7.jar"
+hash = "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f"
+
+[[files]]
+file = "mods/corpse-forge-1.20.1-1.0.23.jar"
+hash = "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c"
+
+[[files]]
+file = "mods/curios-forge-5.14.1+1.20.1.jar"
+hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+
+[[files]]
+file = "mods/desolation-1.0.1-forge.jar"
+hash = "eb3a746bd0aeef4f93019c9e5ec6a8c71f8f9dd83c9f797bddd607bf3e2326f9"
+
+[[files]]
+file = "mods/fallingtrees-forge-mc1.20-0.13.2-SNAPSHOT.jar"
+hash = "6b4853214c5cc156b187b86162df2db028c0ddcf90380fa1897068cde2622de1"
+
+[[files]]
+file = "mods/feasts_of_the_fallout-0.2.6-forge-1.20.1.jar"
+hash = "a990df17708ec968206373a1bbe1e833465a54a4f9a417f98ef4455a8347b7c5"
+
+[[files]]
+file = "mods/fusion-1.3.15b-forge-mc1.20.1.jar"
+hash = "10aa5a2e07f3e04f68925d1452765e0992029a20f2c0953fc62a70fc5bf6b50e"
+
+[[files]]
+file = "mods/geckolib-forge-1.20.1-4.8.4.jar"
+hash = "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747"
+
+[[files]]
+file = "mods/guardvillagers-1.20.1-1.6.19.jar"
+hash = "4c48c88144bcd8d47820baa5ca0d0c1cab8984da4ec2ceeb7ed164c27d1266f3"
+
+[[files]]
+file = "mods/jei-1.20.1-forge-15.58.0.209.jar"
+hash = "e39f3794233d16455217984592744fa8eb350a5f898f1002ed721659b77fdd97"
+
+[[files]]
+file = "mods/lightmanscurrency-1.20.1-2.3.0.5.jar"
+hash = "d7527bfd0fb480e867e95a4504b278951a5e6b7857bf79c3a8ba7cb6fd2c50ab"
+
+[[files]]
+file = "mods/lista_mods.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/lootr-forge-1.20-0.7.35.94.jar"
+hash = "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51"
+
+[[files]]
+file = "mods/moonlight-1.20-2.16.35-forge.jar"
+hash = "55e60e041318c5fabcb02d41e989db2c8b784ba7a991525fa461c6522a67719e"
+
+[[files]]
+file = "mods/ntgl-1.20.1-3.1.2.jar"
+hash = "5a4320d6271158a5a8fd7014208f451f2ac71af6c05634c5680eadb725ca6670"
+
+[[files]]
+file = "mods/otyacraftengine-forge-mc1.20.1-3.7.0-1.20.1.jar"
+hash = "a7c86f15c909cc728b2e7986dc697f3aa89def7ea2cd01134981ebf0c750a6b8"
+
+[[files]]
+file = "mods/pandalib-forge-mc1.20-0.5.2-SNAPSHOT.jar"
+hash = "1595c586e9c3e7e9a455d23b1686cc82f8d9e11578efd86a10a7031995301390"
+
+[[files]]
+file = "mods/psg-5.7.0d-forge-1.20.1.jar"
+hash = "45a407a11cd7604af013fdd40a9cf7d52285472e6c164b8a5247b5bb0e0615c8"
+
+[[files]]
+file = "mods/regrowth-1.20-46.32.1.jar"
+hash = "e38be2f97d853cc5975aac932ebe0a61c4655b1b6207cd0e24f9bb2c520d81cb"
+
+[[files]]
+file = "mods/rpgz-0.6.0-forge.jar"
+hash = "f59218676c35f4109c849a7cde650b22e6d2a86c213ab4ee3ab9cc065fff6c8b"
+
+[[files]]
+file = "mods/sa_decor-forge-1.20.1-1.0.3.jar"
+hash = "cd0fce65054568024a38e5dd5f4beecef2eb5cffe6c89257a7904920155f9a46"
+
+[[files]]
+file = "mods/sa_lib-forge-1.20.1-1.0.1.jar"
+hash = "6af72b4220eb3abfd1af403456cb8850e6eb0241aa0cc27fb6c8c4d4eb356ba0"
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1.20.1-3.26.3.2157.jar"
+hash = "3e6edbc721fbbca638044b0229a2ff0f683c612f590517c278b6998d85853375"
+
+[[files]]
+file = "mods/sophisticatedcore-1.20.1-1.5.1.2335.jar"
+hash = "d9f02d479d49b2aeb606dfc0ff3bd43991229ca89c85585f9d3be9abf17a40cc"
+
+[[files]]
+file = "mods/tacz-1.20.1-1.1.8-hotfix.jar"
+hash = "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77"
+
+[[files]]
+file = "mods/tacz_fallout-0.1.0.jar"
+hash = "21f891fddafe68af390dbf9ca9cf32c95157385a6d1c803eff7922d84e6463a8"
+
+[[files]]
+file = "mods/the_lost_city-1.5.0-forge-1.20.1.jar"
+hash = "5ce7071d8fb2089707c09acb59da66afc030a215b7dce2e925cca81ea9488384"
+
+[[files]]
+file = "mods/tsaz-1.1.0-forge.jar"
+hash = "723c826597f8c34fda1f68632a7694581646b5624414b0d4d59e8c703bb780b0"
+
+[[files]]
+file = "mods/villagernames-1.20.1-8.5.jar"
+hash = "e941c7d5da09ee16ff1d7a99ac0a2651e6d6b1fa649ea4da19c5866128108e64"
+
+[[files]]
+file = "mods/worldedit-mod-7.2.15.jar"
+hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+hash = "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f"
+
+[[files]]
+file = "mods/zombieawareness-1.20.1-1.13.1.jar"
+hash = "4f5104f7d29e1d065364d2483885f3751da2bef09a734cead2fce81c82c46586"

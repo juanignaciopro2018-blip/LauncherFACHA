@@ -1,0 +1,13 @@
+name = "FachacraftVI"
+author = "Posho"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9677e5d59015e658e3dfe346d96e497cdc28a41b4e67c677898398bc708441ac"
+
+[versions]
+forge = "47.4.28"
+minecraft = "1.20.1"

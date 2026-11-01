@@ -1,0 +1,13 @@
+name = "Miyza's Locator Bar"
+filename = "locatorbar-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc1e861a1c4289d26986dbde4c88ebd20675a561"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9386431
+project-id = 1769731

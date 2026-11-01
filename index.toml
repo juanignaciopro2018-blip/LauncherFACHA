@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "935ef57bfb66ee9f2de04edc0dc73a284606d632e1c3c353b27c741b23caf1e0"
+
+[[files]]
+file = "index.html"
+hash = "0eb1fbb02b81ffed1c57e415cf839c29eb43b208d3f5be779170ddf0a285ebb0"
+
+[[files]]
 file = "mods/Fallout Wasteland 1.20.1 Beta 3.8.1.jar"
 hash = "ced3c8a2fb902f60a98c3c9914e5f9d4ad070499644ef90a39f25420d594ace5"
 
@@ -53,12 +61,22 @@ file = "mods/bagus_lib-1.20.1-5.6.1.jar"
 hash = "aeca001b9692235beb2a7c46cb110d55fc9ada0dbc8acff61dfa2f9e39158ffb"
 
 [[files]]
+file = "mods/belroft-motor-company-iv-mts.pw.toml"
+hash = "0d9e3da34f0cf603d50bd6fbd0e695d4745787e2478974d8ae8f49e22d4e8d79"
+metafile = true
+
+[[files]]
 file = "mods/berezka_api-1.2.9.7-forge-1.20.1.jar"
 hash = "31afade3aa460fc2bab025241edec98b35b45fffad576bfdae12df4f886f7bbd"
 
 [[files]]
 file = "mods/big_lost_city-1.0.1-forge-1.20.1.jar"
 hash = "adb106da24d02280218e3ae0839f10545996479b29c3aec40c8eaaf03e1235f2"
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7d3fded0a343b2953e2a77fd1d2ed7abc547d7008f5b1b842546f28b8df1b802"
+metafile = true
 
 [[files]]
 file = "mods/cloth-config-11.1.136-forge.jar"
@@ -77,6 +95,11 @@ file = "mods/corpse-forge-1.20.1-1.0.23.jar"
 hash = "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c"
 
 [[files]]
+file = "mods/cosmic-horizons.pw.toml"
+hash = "5b5ca2e3f5b1849c7ed346e3dfb2b154bc0e1b4a2b8d5102c0827e4c5b613c77"
+metafile = true
+
+[[files]]
 file = "mods/curios-forge-5.14.1+1.20.1.jar"
 hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
 
@@ -91,6 +114,21 @@ hash = "6b4853214c5cc156b187b86162df2db028c0ddcf90380fa1897068cde2622de1"
 [[files]]
 file = "mods/feasts_of_the_fallout-0.2.6-forge-1.20.1.jar"
 hash = "a990df17708ec968206373a1bbe1e833465a54a4f9a417f98ef4455a8347b7c5"
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "efa75ee4aae90dea11316b6e61aecaf9433eeb3d0821f78b4eca41acbbd73e8f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "7b2cc450f553b82439ae9422b8c2b4406dae1af3c48f7ce791a3576acff1d122"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
+metafile = true
 
 [[files]]
 file = "mods/fusion-1.3.15b-forge-mc1.20.1.jar"
@@ -119,6 +157,16 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "mods/lootr-forge-1.20-0.7.35.94.jar"
 hash = "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51"
+
+[[files]]
+file = "mods/minevegas-casino.pw.toml"
+hash = "efb1e48cb8c39c82a3d7ccc8be61d46776d7c20e119dcfd228c9a01ecd73e27f"
+metafile = true
+
+[[files]]
+file = "mods/miyzas-locator-bar.pw.toml"
+hash = "1bc3fe3906224d56a6d68d5c1c3d30cfc84ba86f12f8636c4511689b6c0eda99"
+metafile = true
 
 [[files]]
 file = "mods/moonlight-1.20-2.16.35-forge.jar"
@@ -157,6 +205,11 @@ file = "mods/sa_lib-forge-1.20.1-1.0.1.jar"
 hash = "6af72b4220eb3abfd1af403456cb8850e6eb0241aa0cc27fb6c8c4d4eb356ba0"
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "da0793d9690f4710c0fc60d609fbbbdd12e6158157efa5888942641a309546c8"
+metafile = true
+
+[[files]]
 file = "mods/sophisticatedbackpacks-1.20.1-3.26.3.2157.jar"
 hash = "3e6edbc721fbbca638044b0229a2ff0f683c612f590517c278b6998d85853375"
 
@@ -175,6 +228,11 @@ hash = "21f891fddafe68af390dbf9ca9cf32c95157385a6d1c803eff7922d84e6463a8"
 [[files]]
 file = "mods/the_lost_city-1.5.0-forge-1.20.1.jar"
 hash = "5ce7071d8fb2089707c09acb59da66afc030a215b7dce2e925cca81ea9488384"
+
+[[files]]
+file = "mods/transport-simulator-official-vehicle-set.pw.toml"
+hash = "fd5edfd59aadb46cf1316882ee7333503f4fd6ef71e375bb5df005c2a37bece9"
+metafile = true
 
 [[files]]
 file = "mods/tsaz-1.1.0-forge.jar"

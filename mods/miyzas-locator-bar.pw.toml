@@ -3,11 +3,6 @@ filename = "locatorbar-4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fc1e861a1c4289d26986dbde4c88ebd20675a561"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 9386431
-project-id = 1769731
+url = "https://juanignaciopro2018-blip.github.io/LauncherFACHA/mods/locatorbar-4.jar"
+hash-format = "sha256"
+hash = "5AD53F77FC064300F6646CECB00998808F6EB32BF96D9A2E5C56F6CFF5FAA9BF"

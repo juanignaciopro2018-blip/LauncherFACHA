@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "935ef57bfb66ee9f2de04edc0dc73a284606d632e1c3c353b27c741b23caf1e0"
-
-[[files]]
-file = "index.html"
-hash = "0eb1fbb02b81ffed1c57e415cf839c29eb43b208d3f5be779170ddf0a285ebb0"
-
-[[files]]
 file = "mods/Cosmic_Horizons_0.0.7.3-forge-1.20.1.jar"
 hash = "46cdac6c72a3788f3ffbd2d6ef0420aad3688a74079c3dbdd84e3e300441c3ca"
 

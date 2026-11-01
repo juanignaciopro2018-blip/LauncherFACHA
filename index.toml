@@ -9,6 +9,10 @@ file = "index.html"
 hash = "0eb1fbb02b81ffed1c57e415cf839c29eb43b208d3f5be779170ddf0a285ebb0"
 
 [[files]]
+file = "mods/Cosmic_Horizons_0.0.7.3-forge-1.20.1.jar"
+hash = "46cdac6c72a3788f3ffbd2d6ef0420aad3688a74079c3dbdd84e3e300441c3ca"
+
+[[files]]
 file = "mods/Fallout Wasteland 1.20.1 Beta 3.8.1.jar"
 hash = "ced3c8a2fb902f60a98c3c9914e5f9d4ad070499644ef90a39f25420d594ace5"
 
@@ -96,7 +100,7 @@ hash = "8d77c5fc8dc981c750a8e66d4665f055457f748f0ce49a303d9bc50347bdbf7c"
 
 [[files]]
 file = "mods/cosmic-horizons.pw.toml"
-hash = "5b5ca2e3f5b1849c7ed346e3dfb2b154bc0e1b4a2b8d5102c0827e4c5b613c77"
+hash = "ad24805d579d2ed5660b85ee17730a247e9b9c7207c142b66e6237d8eb7b2f89"
 metafile = true
 
 [[files]]
@@ -149,10 +153,6 @@ hash = "e39f3794233d16455217984592744fa8eb350a5f898f1002ed721659b77fdd97"
 [[files]]
 file = "mods/lightmanscurrency-1.20.1-2.3.0.5.jar"
 hash = "d7527bfd0fb480e867e95a4504b278951a5e6b7857bf79c3a8ba7cb6fd2c50ab"
-
-[[files]]
-file = "mods/lista_mods.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/lootr-forge-1.20-0.7.35.94.jar"

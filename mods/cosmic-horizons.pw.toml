@@ -3,11 +3,6 @@ filename = "Cosmic_Horizons_0.0.7.3-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "74398b1a08d38baf2645c93bf0db50a93c9334d2"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6055514
-project-id = 1063119
+url = "https://juanignaciopro2018-blip.github.io/LauncherFACHA/mods/Cosmic_Horizons_0.0.7.3-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "46CDAC6C72A3788F3FFBD2D6EF0420AAD3688A74079C3DBDD84E3E300441C3CA"

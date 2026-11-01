@@ -147,6 +147,10 @@ file = "mods/lightmanscurrency-1.20.1-2.3.0.5.jar"
 hash = "d7527bfd0fb480e867e95a4504b278951a5e6b7857bf79c3a8ba7cb6fd2c50ab"
 
 [[files]]
+file = "mods/locatorbar-4.jar"
+hash = "5ad53f77fc064300f6646cecb00998808f6eb32bf96d9a2e5c56f6cff5faa9bf"
+
+[[files]]
 file = "mods/lootr-forge-1.20-0.7.35.94.jar"
 hash = "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51"
 
@@ -197,8 +201,12 @@ file = "mods/sa_lib-forge-1.20.1-1.0.1.jar"
 hash = "6af72b4220eb3abfd1af403456cb8850e6eb0241aa0cc27fb6c8c4d4eb356ba0"
 
 [[files]]
+file = "mods/skinrestorer-2.11.0+1.20-forge.jar"
+hash = "74c14d49cbf6a882292cd14611c57c2567d627e43b022376b6736a18beef733f"
+
+[[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "da0793d9690f4710c0fc60d609fbbbdd12e6158157efa5888942641a309546c8"
+hash = "8f4ae0a5198f650c762ce2ac00a4f6cd041dc943443ecc4ae551de4c6ebcdeed"
 metafile = true
 
 [[files]]

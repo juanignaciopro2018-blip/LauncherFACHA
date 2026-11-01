@@ -1,13 +1,8 @@
-name = "Skin Restorer"
+name = "SkinRestorer"
 filename = "skinrestorer-2.11.0+1.20-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "646159bfb044f93d564d2e192afcba5adb9861ee"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 8838308
-project-id = 443823
+url = "https://juanignaciopro2018-blip.github.io/LauncherFACHA/mods/skinrestorer-2.11.0+1.20-forge.jar"
+hash-format = "sha256"
+hash = "74C14D49CBF6A882292CD14611C57C2567D627E43B022376B6736A18BEEF733F"

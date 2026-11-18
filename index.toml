@@ -183,6 +183,10 @@ file = "mods/psg-5.7.0d-forge-1.20.1.jar"
 hash = "45a407a11cd7604af013fdd40a9cf7d52285472e6c164b8a5247b5bb0e0615c8"
 
 [[files]]
+file = "mods/rhino-forge-2001.2.3-build.10.jar"
+hash = "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6"
+
+[[files]]
 file = "mods/riautomobility-1.0.3.jar"
 hash = "4a025672fdff6e9eeb4ba3136be84b8020ef80d35acb5ca7b15575f8c6145030"
 
